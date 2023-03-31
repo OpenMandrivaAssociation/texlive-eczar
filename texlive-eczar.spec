@@ -1,6 +1,6 @@
 Name:		texlive-eczar
 Version:	57716
-Release:	1
+Release:	2
 Summary:	A font family supporting Devanagari and Latin script
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eczar
