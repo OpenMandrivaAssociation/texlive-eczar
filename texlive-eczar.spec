@@ -3,7 +3,7 @@ Version:	57716
 Release:	2
 Summary:	A font family supporting Devanagari and Latin script
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eczar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eczar
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eczar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eczar.doc.r%{version}.tar.xz
